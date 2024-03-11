@@ -76,7 +76,7 @@ const Formulario = ({ onSuccess, onError }) => {
           />
         </div>
         <div className="form-group">
-          <label>Confirma Contraseña</label>
+          <label>Confirma Pass</label>
           <input
             type="password"
             name="confirmoContrasena"
@@ -86,7 +86,7 @@ const Formulario = ({ onSuccess, onError }) => {
           />
         </div>
         <button type="submit" className="btn btn-primary w-100 mt-3 mb-3">
-          Enviar
+          Send
         </button>
       </form>
     </div>
