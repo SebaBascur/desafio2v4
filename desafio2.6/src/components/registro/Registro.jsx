@@ -26,7 +26,7 @@ const Registro = () => {
   return (
     <div className=" ">
       <div className="container  d-flex flex-column  align-items-center border border-info">
-        <h1 className="fs-2 d-flex flex-column mt-3">Crea una cuenta</h1>
+        <h1 className="fs-2 d-flex flex-column mt-3">Crea tu cuenta</h1>
         <SocialButton
           icon1={faFacebook}
           icon2={faLinkedinIn}
