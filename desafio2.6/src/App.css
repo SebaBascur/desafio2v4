@@ -5,5 +5,5 @@
   flex-flow:column;
   justify-content:center;
   align-items:center;
-  background-color: bisque;
+  background: linear-gradient(to bottom right, #a8e063, #56ab2f);   
 }
